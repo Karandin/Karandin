@@ -35,6 +35,7 @@ public class Task1 {
             maxValueInMap = (Collections.max(map.values()));
         }
         System.out.println(list);
+
     }
 }
 
