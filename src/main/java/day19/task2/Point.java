@@ -32,9 +32,18 @@ class Point {
     }
 
     @Override
+    public String toString() {
+        return "Point{" +
+                "x=" + x +
+                ", y=" + y +
+                '}';
+    }
+
+    @Override
     public int hashCode() {
         int result = x;
         result = 31 * result + y;
         return result;
+
     }
 }
