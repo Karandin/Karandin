@@ -2,9 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="230">
 <p><em>I am Java backend developer</p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
+[![Telegram: @m_karandin](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/m_karandin)
+[![GitHub Karandin](https://img.shields.io/github/followers/karandin?label=follow&style=social)](https://github.com/karandin)
+[![fl.ru](https://img.shields.io/badge/fl.ru-Visit-EAEAEA?style=flat-square&labelColor=EAEAEA&color=FAE0E0)](https://www.fl.ru/users/mikhailkarandin/opinions/?sort=1&period=&author=0#op_head)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -14,13 +14,14 @@ private final static String MIKHAIL = {
   pronouns: "he" | "him",
   code: [Java, Python, HTML, CSS],
   tools: [Spring Boot, Spring MVC, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
+  skills: ["OOP", "REST API", "SQL", "Algorithms"],
+  languages: ["RUS", "ENG"],
+  expiriance: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "EducaTRANSforma"
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ status: "looking for a job"
 }
 ```
 
