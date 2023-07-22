@@ -9,22 +9,15 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```java
-private final static String MIKHAIL = {
-  pronouns: "he" | "him",
+```python
+MIKHAIL = {
   code: [Java, Python, HTML, CSS],
-  tools: [Spring Boot, Spring MVC, Docker],
+  tools: [Spring Core, Spring Boot, Spring Security],
   skills: ["OOP", "REST API", "SQL", "Algorithms"],
   languages: ["RUS", "ENG"],
-  expiriance: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- status: "looking for a job"
+  status: "looking for a job"
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people, so if you want to say hi, I'll be happy to get to know you better!</b> :)</em>
 
 ---
