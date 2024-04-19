@@ -14,8 +14,7 @@ MIKHAIL = {
   code: [Java, Python, HTML, CSS],
   tools: [Spring Core, Spring Boot, Spring Security],
   skills: ["OOP", "REST API", "SQL", "Algorithms"],
-  languages: ["RUS", "ENG"],
-  status: "looking for a job"
+  languages: ["RUS", "ENG"]"
 }
 ```
 
